@@ -1,0 +1,157 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - generic [ref=e4]:
+        - heading "FRED Indicators" [level=1] [ref=e5]
+        - paragraph [ref=e6]: Economic Data Dashboard
+      - navigation [ref=e7]:
+        - button "Key Indicators" [ref=e8]:
+          - img [ref=e10]
+          - generic [ref=e13]: Key Indicators
+          - img [ref=e14]
+        - button "Inflation" [ref=e16]:
+          - img [ref=e18]
+          - generic [ref=e21]: Inflation
+          - img [ref=e22]
+        - button "Employment" [ref=e24]:
+          - img [ref=e26]
+          - generic [ref=e29]: Employment
+          - img [ref=e30]
+        - button "Interest Rates" [ref=e32]:
+          - img [ref=e34]
+          - generic [ref=e37]: Interest Rates
+          - img [ref=e38]
+        - button "Economic Growth" [ref=e40]:
+          - img [ref=e42]
+          - generic [ref=e45]: Economic Growth
+          - img [ref=e46]
+        - button "Exchange Rates" [ref=e48]:
+          - img [ref=e50]
+          - generic [ref=e53]: Exchange Rates
+          - img [ref=e54]
+        - button "Housing" [ref=e56]:
+          - img [ref=e58]
+          - generic [ref=e61]: Housing
+          - img [ref=e62]
+        - button "Consumer Spending" [ref=e64]:
+          - img [ref=e66]
+          - generic [ref=e70]: Consumer Spending
+          - img [ref=e71]
+      - paragraph [ref=e74]: Data provided by Federal Reserve Economic Data (FRED)
+    - main [ref=e75]:
+      - generic [ref=e76]:
+        - heading "Economic Indicators Dashboard" [level=2] [ref=e77]
+        - paragraph [ref=e78]: Real-time economic data from the Federal Reserve Economic Data (FRED) system
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - heading "CPI - last five years" [level=3] [ref=e83]
+          - generic [ref=e85]:
+            - generic [ref=e86]: FRED
+            - application [ref=e89]:
+              - generic [ref=e100]:
+                - generic [ref=e101]:
+                  - generic [ref=e103]: May 21
+                  - generic [ref=e105]: Nov 21
+                  - generic [ref=e107]: May 22
+                  - generic [ref=e109]: Nov 22
+                  - generic [ref=e111]: May 23
+                  - generic [ref=e113]: Nov 23
+                  - generic [ref=e115]: May 24
+                  - generic [ref=e117]: Nov 24
+                  - generic [ref=e119]: May 25
+                  - generic [ref=e121]: Feb 26
+                - generic [ref=e122]:
+                  - generic [ref=e124]: "260"
+                  - generic [ref=e126]: "280"
+                  - generic [ref=e128]: "300"
+                  - generic [ref=e130]: "320"
+                  - generic [ref=e132]: "340"
+          - generic [ref=e133]:
+            - paragraph [ref=e134]: "Source: U.S. Bureau of Labor Statistics via FRED®"
+            - link "fred.stlouisfed.org" [ref=e135] [cursor=pointer]:
+              - /url: https://fred.stlouisfed.org
+        - generic [ref=e136]:
+          - 'heading "Infra-Annual Labor Statistics: Unemployment Rate Total" [level=3] [ref=e138]'
+          - generic [ref=e140]:
+            - generic [ref=e141]: FRED
+            - application [ref=e144]:
+              - generic [ref=e155]:
+                - generic [ref=e156]:
+                  - generic [ref=e158]: Jan 10
+                  - generic [ref=e160]: Sep 11
+                  - generic [ref=e162]: May 13
+                  - generic [ref=e164]: Jan 15
+                  - generic [ref=e166]: Sep 16
+                  - generic [ref=e168]: May 18
+                  - generic [ref=e170]: Jan 20
+                  - generic [ref=e172]: Sep 21
+                  - generic [ref=e174]: May 23
+                  - generic [ref=e176]: Feb 26
+                - generic [ref=e177]:
+                  - generic [ref=e179]: 0%
+                  - generic [ref=e181]: 4%
+                  - generic [ref=e183]: 8%
+                  - generic [ref=e185]: 12%
+                  - generic [ref=e187]: 16%
+          - generic [ref=e188]:
+            - paragraph [ref=e189]: "Source: Organization for Economic Co-operation and Development via FRED®"
+            - link "fred.stlouisfed.org" [ref=e190] [cursor=pointer]:
+              - /url: https://fred.stlouisfed.org
+        - generic [ref=e191]:
+          - 'heading "Interest Rates: Long-Term Government Bond Yields: 10-Year" [level=3] [ref=e193]'
+          - generic [ref=e195]:
+            - generic [ref=e196]: FRED
+            - application [ref=e199]:
+              - generic [ref=e210]:
+                - generic [ref=e211]:
+                  - generic [ref=e213]: Jan 10
+                  - generic [ref=e215]: Sep 11
+                  - generic [ref=e217]: May 13
+                  - generic [ref=e219]: Jan 15
+                  - generic [ref=e221]: Sep 16
+                  - generic [ref=e223]: May 18
+                  - generic [ref=e225]: Jan 20
+                  - generic [ref=e227]: Sep 21
+                  - generic [ref=e229]: May 23
+                  - generic [ref=e231]: Jan 26
+                - generic [ref=e232]:
+                  - generic [ref=e234]: 0%
+                  - generic [ref=e236]: 2%
+                  - generic [ref=e238]: 4%
+                  - generic [ref=e240]: 6%
+                  - generic [ref=e242]: 8%
+          - generic [ref=e243]:
+            - paragraph [ref=e244]: "Source: Organization for Economic Co-operation and Development via FRED®"
+            - link "fred.stlouisfed.org" [ref=e245] [cursor=pointer]:
+              - /url: https://fred.stlouisfed.org
+        - generic [ref=e246]:
+          - 'heading "Interest Rates: 3-Month or 90-Day Rates and Yields" [level=3] [ref=e248]'
+          - generic [ref=e250]:
+            - generic [ref=e251]: FRED
+            - application [ref=e254]:
+              - generic [ref=e265]:
+                - generic [ref=e266]:
+                  - generic [ref=e268]: Jan 10
+                  - generic [ref=e270]: Sep 11
+                  - generic [ref=e272]: May 13
+                  - generic [ref=e274]: Jan 15
+                  - generic [ref=e276]: Sep 16
+                  - generic [ref=e278]: May 18
+                  - generic [ref=e280]: Jan 20
+                  - generic [ref=e282]: Sep 21
+                  - generic [ref=e284]: May 23
+                  - generic [ref=e286]: Jan 26
+                - generic [ref=e287]:
+                  - generic [ref=e289]: 0%
+                  - generic [ref=e291]: 2%
+                  - generic [ref=e293]: 4%
+                  - generic [ref=e295]: 6%
+                  - generic [ref=e297]: 8%
+          - generic [ref=e298]:
+            - paragraph [ref=e299]: "Source: Organization for Economic Co-operation and Development via FRED®"
+            - link "fred.stlouisfed.org" [ref=e300] [cursor=pointer]:
+              - /url: https://fred.stlouisfed.org
+  - button "Open Next.js Dev Tools" [ref=e306] [cursor=pointer]:
+    - img [ref=e307]
+  - alert [ref=e310]
+  - generic [ref=e311]: 2%

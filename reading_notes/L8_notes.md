@@ -35,7 +35,7 @@ You should see a confirmation message at the bottom of the screen letting you kn
 - Here's the prompt:
 
   ```
-  Using the following figma mockup (paste the link) use the figma dev MCP server to analyze the mockup and build the underlying code in this next.js application. Use the recharts library for creating charts to make this a web application. Check how this application looks using the playwright MCP server and verify it looks as close to the mock as possible.
+  Using the following figma mockup: https://www.figma.com/design/BL9EW5LR4T3hsZhV8GQAza/key-indicators?node-id=22-21&m=dev use the figma dev MCP server to analyze the mockup and build the underlying code in this next.js application. Use the recharts library for creating charts to make this a web application. Check how this application looks using the playwright MCP server and verify it looks as close to the mock as possible.
   ```   
 
 - Follow-up request:
